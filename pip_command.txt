@@ -4,3 +4,6 @@ pip3 install accelerate
 
 安装 PyTorch
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+安装 bitsandbytes
+pip3 install -U bitsandbytes

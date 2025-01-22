@@ -1,3 +1,4 @@
 transformers==4.48.1
 accelerate==1.3.0
 torch==2.5.1+cu124
+bitsandbytes==0.45.0

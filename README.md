@@ -10,3 +10,11 @@
 项目根路径下的 requirements.txt 文件详细记录了项目的依赖包版本信息。
 ### 1.2 pip 命令清单
 也提供了 pip 命令清单，用于安装依赖包。详见项目根路径下的 pip_command.txt
+
+## 三 量化方法
+
+## 3.1 bitsandbytes
+依赖安装
+```commandline
+pip install transformers accelerate bitsandbytes>0.37.0
+```
