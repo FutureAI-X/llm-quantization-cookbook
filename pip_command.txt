@@ -1,9 +1,12 @@
-安装 Hugging Face 相关依赖
-pip3 install transformers
-pip3 install accelerate
+# 安装 Numpy
+pip install numpy
 
 安装 PyTorch
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+安装 Hugging Face 相关依赖
+pip3 install transformers
+pip3 install accelerate
 
 安装 bitsandbytes
 pip3 install -U bitsandbytes
