@@ -10,3 +10,6 @@ pip3 install accelerate
 
 安装 bitsandbytes
 pip3 install -U bitsandbytes
+
+# 安装 Pillow
+pip install Pillow
