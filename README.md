@@ -2,8 +2,9 @@
 大语言模型量化
 
 ## 一 环境说明
-- Python版本：3.11.9
-- 操作系统：Windows 11/10
+以下为作者基础环境说明
+- Python版本：3.12.3
+- 操作系统：WSL Ubuntu 24.04.2 LTS
 
 ## 二 依赖清单
 ### 1.1 requirements.txt
